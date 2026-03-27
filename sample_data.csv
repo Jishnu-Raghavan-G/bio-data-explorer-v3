@@ -1,0 +1,11 @@
+sample_id,gene,expression,age_group,condition
+S1,TP53,5.2,young,healthy
+S2,BRCA1,3.1,old,disease
+S3,MYC,7.5,young,healthy
+S4,EGFR,2.2,old,disease
+S5,PTEN,4.8,young,healthy
+S6,TP53,6.1,old,disease
+S7,BRCA1,3.8,young,healthy
+S8,MYC,6.9,old,disease
+S9,EGFR,2.5,young,healthy
+S10,PTEN,4.1,old,disease
